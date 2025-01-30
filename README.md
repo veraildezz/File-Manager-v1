@@ -32,3 +32,7 @@ Bu projeye katkıda bulunmak isterseniz:
 
 ## Lisans
 Bu proje, [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+## Developer
+Developer: veraildezz & medusa
+İnstagram: @veraildezz
