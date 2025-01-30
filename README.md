@@ -11,6 +11,7 @@ Bu proje, Sketchware kullanılarak geliştirilmiş **Dosya Yöneticisi** uygulam
 2. Bu repo'yu bilgisayarınıza veya doğrudan Sketchware'a aktarın.
 3. Sketchware'da projeyi açın.
 4. Proje, cihazınızdaki dosya sistemi üzerinde çalışacağı için, gerekli izinleri (dosya okuma) vermeniz gerekmektedir.
+5. Deneme.txt Dosyalarını repoyu klonlarken siliniz.
 
 ## Teknolojiler ve Araçlar
 - **Android (Java)**: Uygulamanın ana dili ve platformu.
